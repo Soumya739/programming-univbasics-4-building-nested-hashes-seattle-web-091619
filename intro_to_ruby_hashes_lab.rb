@@ -29,7 +29,7 @@ def monopoly_with_third_tier
         :jan => "$23",
         :feb => "$25",
         :mar => "$22",
-        :one_piece_owned => "25"
+        :one_piece_owned => 25
       },
       :names => {
         :BNSF => {},
