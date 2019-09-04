@@ -32,7 +32,8 @@ def monopoly_with_third_tier
         :april => "$24"
       },
       :names => {
-        :BNSF =>{},
+        :BNSF => {},
+        :Union_Pacific => {},
         :
       }
     }
