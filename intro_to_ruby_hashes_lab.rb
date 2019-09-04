@@ -29,7 +29,6 @@ def monopoly_with_third_tier
         :jan => "$23",
         :feb => "$25",
         :mar => "$22",
-        :april => "$24",
         :one_piece_owned => {}
       },
       :names => {
