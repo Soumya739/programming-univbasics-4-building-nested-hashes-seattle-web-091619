@@ -25,7 +25,12 @@ def monopoly_with_third_tier
   {
     :railroads => {
       :pieces => 4,
-      :rent_in_dollars => {}
+      :rent_in_dollars => {
+        :jan => "$23",
+        :feb => "$25",
+        :mar => "$22",
+        :april => "$24"
+      }
     }
     
   }
