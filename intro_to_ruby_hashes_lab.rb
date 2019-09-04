@@ -31,7 +31,9 @@ def monopoly_with_third_tier
         :mar => "$22",
         :april => "$24"
       },
-      :names => {}
+      :names => {
+        :
+      }
     }
   }
 end
