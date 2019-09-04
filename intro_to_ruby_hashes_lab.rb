@@ -34,7 +34,8 @@ def monopoly_with_third_tier
       :names => {
         :BNSF => {},
         :Union_Pacific => {},
-        :
+        :short_line => {},
+        :others => {}
       }
     }
   }
