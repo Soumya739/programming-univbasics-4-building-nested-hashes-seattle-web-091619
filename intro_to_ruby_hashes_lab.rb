@@ -49,7 +49,7 @@ def monopoly_with_fourth_tier
         :feb => "$25",
         :mar => "$22",
         :april => "$24"
-      }
+      },
       :names => {}
     }
     
